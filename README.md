@@ -1,5 +1,5 @@
 # Agribots
-Codebase written for WPI Solar Agribots MQP 2021-2022.
+Codebase written for WPI Solar Agribots MQP Project 2021-2022.
 
 # Hub
 ![Hub](Resources/Hub.jpg)
